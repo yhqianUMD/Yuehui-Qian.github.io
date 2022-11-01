@@ -14,7 +14,7 @@ __Gege Wen__, Zongyi Li, Kamyar Azizzadenesheli, Anima Anandkumar, Sally M Benso
 * U-FNO—An enhanced Fourier neural operator-based deep-learning model for multiphase flow. <br> 
 __Gege Wen__, Zongyi Li, Kamyar Azizzadenesheli, Anima Anandkumar, Sally M Benson. 
 *Advances in Water Resources* 2022.<br> 
-[[Code]]()
+[[Code]](https://github.com/gegewen/ufno)
 [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0309170822000562)
 [[Arxiv]](https://arxiv.org/abs/2109.03697)
 [[Media1]](https://blogs.nvidia.com/blog/2022/04/08/ai-improves-carbon-sequestration/)
@@ -24,7 +24,7 @@ __Gege Wen__, Zongyi Li, Kamyar Azizzadenesheli, Anima Anandkumar, Sally M Benso
 * CCSNet: a deep learning modeling suite for CO2 storage. <br> 
 __Gege Wen__, Catherine Hay, Sally Benson. 
 *Advances in Water Resources* 2021. <br> 
-[[Code]]()
+[[Code]](https://github.com/gegewen/ccsnet_v1.0)
 [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0309170821001640)
 [[Arxiv]](https://arxiv.org/abs/2104.01795)
 [[Youtube]](https://www.youtube.com/watch?v=_SHdgdjLaAE)
@@ -33,7 +33,7 @@ __Gege Wen__, Catherine Hay, Sally Benson.
 * Towards a predictor for CO2 plume migration using deep neural networks. <br>
 __Gege Wen__, Meng Tang, Sally M Benson. 
 *International Journal of Greenhouse Gas Control* 2021. <br> 
-[[Code]]()
+[[Code]](https://github.com/gegewen/runet)
 [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1750583620306484)
 [[Arxiv]](https://arxiv.org/abs/1910.09657)
 
