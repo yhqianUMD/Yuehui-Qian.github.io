@@ -13,7 +13,7 @@ working with Professor [Sally M. Benson](https://earth.stanford.edu/people/sally
 
 I am is currently an ExxonMobil Emerging Energy Fellow through the [Stanford Strategic Energy Alliance](https://news.stanford.edu/2018/03/01/new-energy-research-program-collaboration/). 
 I received my Master's degree in Fluid Mechanics and Hydrology from Civil and Environmental Engineering at Stanford University.
-Prior to my Ph.D. Stanford, I received her Bachelor's degree with honors from Lassonde Mineral Engineering at University of Toronto and nominated as [16 Grads to Watch](https://news.engineering.utoronto.ca/grads-watch-16-global-engineering-leaders/).
+Prior to my Ph.D. Stanford, I received my Bachelor's degree with honors from Lassonde Mineral Engineering at University of Toronto and nominated as [16 Grads to Watch](https://news.engineering.utoronto.ca/grads-watch-16-global-engineering-leaders/).
 
 
 
