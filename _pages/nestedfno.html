@@ -1,0 +1,68 @@
+---
+layout: splash
+title: "Nested FNO"
+permalink: /nestedfno/
+author_profile: False
+---
+
+<style>
+.button {
+  background-color: #e7e7e7;
+  border: none;
+  color: black;
+  padding: 6px 12px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 12px
+}
+</style>
+
+<h1>Accelerating Carbon Capture and Storage Modeling using Fourier Neural Operators</h1>
+
+<a href="#overview" class="button">Overview</a>
+<a href="#accuracy" class="button">Accuracy</a>
+<a href="https://arxiv.org/abs/2210.17051" class="button">Paper</a>
+<a href="https://github.com/gegewen/nested-fno-source" class="button">Github</a>
+<a href="#webapp" class="button">Web app</a>
+<a href="#citation" class="button">Citation</a>
+
+<hr>
+<video width="100%" preload="auto" controls muted>
+  <source src="../files/flic_anno.mp4" type="video/mp4">
+  <source src="../files/flic_anno.webm" type="video/webm">
+  Sorry, your browser doesn't support HTML5 video.
+</video>
+
+<hr>
+<h2 id="overview">Nested FNO for CO2 storage modeling</h2>
+<p> Nested FNO is a machine learning framework that provides unprecedented high-resolution high-fidelity 3D spatial-temporal predictions of CO2 gas saturation plume and pressure buildup.
+ Nested FNO can handle a wide range of realistic reservoir and operational parameters and speeds up predictions nearly <b>700,000</b> times compared to state-of-the-art numerical simulators!</p>
+
+<img src="../images/figure1.jpg" alt="figure1">
+
+<hr>
+<h2 id="accuracy">Prediction Accuracy</h2>
+<p> Nested FNO provides accurate gas saturation and pressure buildup prediction over 30 years of injection.
+    The average gas saturation plume error is 1.8% and average pressure buildup error is 0.5%. </p>
+<img src="../images/accuracy_dp.gif" alt="dp gif">
+<img src="../images/accuracy_sg.gif" alt="sg gif">
+
+
+<hr>
+<h2 id="webapp">CCSNet.ai</h2>
+<p>Check out our web application <a href="https://ccsnet.ai">ccsnet.ai</a> that hosts the pre-train models.
+You can obtain real-time prediction with custom geological correlations, permeability statistic, reservoir depth, temperature, and dip angles.
+    You can also use custom injection rate, injection location, and perforation design!</p>
+
+<hr>
+<h2 id="citation">Citation</h2>
+<pre><code>@article{wen2022accelerating,
+  title={Accelerating Carbon Capture and Storage Modeling using Fourier Neural Operators},
+  author={Wen, Gege and Li, Zongyi and Long, Qirui and Azizzadenesheli, Kamyar and Anandkumar, Anima and Benson, Sally M},
+  journal={arXiv preprint arXiv:2210.17051},
+  year={2022}
+}</code></pre>
