@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+__Update:__ I will be starting as an Assitant Professor at Imperial College London starting Jan 2024, co-appointment from [Earth Science Engineering](https://www.imperial.ac.uk/earth-science/) and [I-X (Imperial + AI)](https://ix.imperial.ac.uk/). My group will focus on AI for Energy Transition, with special emphsis on subsurface energy storage and CO$_2$ geological storage. Please reach out if you are interested in Ph.D. oppertunities starting Fall 2024.
+
 I am a Ph.D. candidate at the [Energy Sciences & Engineering](https://earth.stanford.edu/ere) Department at [Stanford Doerr School of Sustainability](https://sustainability.stanford.edu/)
 working with Professor [Sally M. Benson](https://earth.stanford.edu/people/sally-benson). My research interest is in computational methods for earth sciences. I specialize in multiphase flow and transport for CO$_2$ geological storage, physics modeling, and machine learning. 
 
