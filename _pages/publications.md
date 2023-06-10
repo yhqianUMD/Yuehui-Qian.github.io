@@ -6,10 +6,12 @@ author_profile: true
 ---
 
 
-* Accelerating Carbon Capture and Storage Modeling using Fourier Neural Operators. <br>
+* Real-time high-resolution CO 2 geological storage prediction using nested Fourier neural operators. <br>
 __Gege Wen__, Zongyi Li, Kamyar Azizzadenesheli, Anima Anandkumar, Sally M Benson. 
-*Under review* 2022 <br>
+Energy \& Environmental Science 2023 <br>
+[[Paper]](https://pubs.rsc.org/en/content/articlelanding/2007/6w/d2ee04204e/unauth)
 [[Arxiv]](https://arxiv.org/pdf/2210.17051.pdf)
+[[Code]](https://github.com/gegewen/nested-fno)
 
 * U-FNO—An enhanced Fourier neural operator-based deep-learning model for multiphase flow. <br> 
 __Gege Wen__, Zongyi Li, Kamyar Azizzadenesheli, Anima Anandkumar, Sally M Benson. 
