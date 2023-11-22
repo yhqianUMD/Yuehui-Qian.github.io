@@ -4,11 +4,14 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "[ccsnet.ai]"
-    url: /ccsnet/
+  - title: "Presentations"
+    url: /presentations/
 
   - title: "Teaching"
     url: /teaching/
 
+  - title: "Service"
+    url: /service/
+
   - title: "CV"
-    url: /files/CV_Gege_Wen.pdf
+    url: /files/XL_CV.pdf

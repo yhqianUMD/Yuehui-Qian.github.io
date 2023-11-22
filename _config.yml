@@ -11,14 +11,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gege Wen"
+title                    : "Xiaoyu Liang"
 title_separator          : "-"
-name                     : &name "Gege Wen"
+name                     : &name "Xiaoyu Liang"
 description              : &description "personal description"
-url                      : https://gegewen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://liangxy0.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #url                      : http://localhost:4000
 baseurl                  : ""
-repository               : "gegewen/gegewen.github.io"
+repository               : "liangxy0/liangxy0.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -86,14 +86,14 @@ analytics:
 # Site Author
 author:
   name             :
-  avatar           : "IMG_8080_square.JPG"
+  avatar           : "IMG_7798_square.JPG"
   bio              :
-  location         : "Stanford, CA, USA"
+  location         : "Columbus, OH, USA"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=XGxN7KUAAAAJ&hl=en"
-  email            :
-  researchgate     : "https://www.researchgate.net/profile/Gege-Wen-2"
+  googlescholar    : "https://scholar.google.com/citations?user=q0l3VukAAAAJ&hl=en"
+  email            : liang.918@osu.edu
+  researchgate     : "https://www.researchgate.net/profile/Xiaoyu-Liang-8/research"
   uri              :
   bitbucket        :
   codepen          :
@@ -101,13 +101,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "gegewen"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         : "gege-wen-6234a963"
+  linkedin         :
   orcid            :
   pinterest        :
   soundcloud       :
