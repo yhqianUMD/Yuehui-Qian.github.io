@@ -13,7 +13,7 @@
 ## CV Setup
 
 1. Go to the file _pages/cv.md
-2. Only need to modify the file path here: `/files/XL_CV.pdf`
+2. Only need to modify the file path here: `/files/Yuehui_Qian_Resume.pdf`
 
 ## PDF Files
 
